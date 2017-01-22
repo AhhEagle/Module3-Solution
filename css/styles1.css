@@ -26,7 +26,7 @@ body {
   text-decoration: none;
 }
 
-#nav-list {
+/*#nav-list {
   margin-top: 10px;
 }
 
@@ -47,9 +47,6 @@ body {
   clear: both;
   margin-top: -30px;
 }
-/* END HEADER */
-
-/* HOME PAGE */
 .text-center{
   font-size: 30px;
   font-weight: bold;
@@ -59,9 +56,8 @@ body {
   box-shadow: 0 0 50px #3F0C1F;
   border: 2px solid #3F0C1F;
   height: 1000px;
-}
+}*/
 
-/* END HOME PAGE */
 
 /********** Large devices only **********/
 @media (min-width: 1200px) {
@@ -101,10 +97,10 @@ body {
 /********** Extra small devices only **********/
 @media (max-width: 767px) {
   /* Header */
-  .navbar-brand {
+  /*.navbar-brand {
     padding-top: 10px;
     height: 80px;
-  }
+  }*/
  
   /* End Header */
 
