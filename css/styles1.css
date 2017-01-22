@@ -105,13 +105,7 @@ body {
     padding-top: 10px;
     height: 80px;
   }
-  #collapsable-nav a { /* Collapsed nav menu text */
-    font-size: 1.2em;
-  }
-  #collapsable-nav a span { /* Collapsed nav menu glyph */
-    font-size: 1em;
-    margin-right: 5px;
-  }
+ 
   /* End Header */
 
   /* Home Page */
